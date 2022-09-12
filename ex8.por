@@ -5,11 +5,11 @@ programa {
 	{
 		real custoF,custoC,pDistribuidor,imp
 	
-		escreva("\nInforme o custo de f·brica: ")
+		escreva("\nInforme o custo de f√°brica: ")
 		leia(custoF)
 		pDistribuidor=custoF*0.28
 		imp=custoF*0.45
 		custoC=custoF+pDistribuidor+imp
-		escreva("O custo ao consumidor È em reias :",custoC)
+		escreva("O custo ao consumidor √© em reais :",custoC)
 	}
 }
